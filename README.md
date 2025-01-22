@@ -17,11 +17,11 @@ A RESTful API for managing users, allowing operations to create, retrieve, updat
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/MaxintokE/Lightweight.git>
    ```
 2. Navigate to the project directory:
    ```bash
-   cd <project-directory>
+   cd <https://github.com/MaxintokE/Lightweight>
    ```
 3. Run the following command to install dependencies:
    ```bash
